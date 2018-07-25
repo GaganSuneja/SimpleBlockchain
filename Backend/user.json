@@ -1,0 +1,21 @@
+[
+	{
+		"name": "mahesh",
+		"password": "password1",
+		"profession": "teacher",
+		"id": 1,
+		"email":"gagan91suneja@gmail.com"
+	},
+	{
+		"name": "suresh",
+		"password": "password2",
+		"profession": "librarian",
+		"email":"ankul.anand@gmail.com"
+	},
+	{
+		"name": "ramesh",
+		"password": "password3",
+		"profession": "clerk",
+		"email":"gagan91suneja@gmail.com"
+	}
+]
